@@ -17,7 +17,7 @@ My name is Travis and I am a Software Engineer who loves to work with web develo
     <tr>
       <td><img src="./icons/node-js-icon.svg" width="50" height="50"><br><b>Node.js</td>
       <td><img src="./icons/express-js-icon.svg" width="50" height="50"><br><b>Express</b></td>
-      <td><img width="50" height="50"><br><b>webpack</b></td>
+      <td><p align="center"><img src="./icons/webpack-icon.svg" width="50" height="50"><br><b>webpack</b></p></td>
     </tr>
   </tbody>
 </table>
