@@ -2,9 +2,27 @@
 My name is Travis and I am a Software Engineer who loves to work with web development technologies.  I am currently focused on learning as much about web development as I possibly can so that I can make a difference in the world.  I enjoy learning new technologies which can usually improve my development experience.
 
 ## 🧰 Technologies & Tools
-| <img src="./icons/html5-icon.png" width="50" height="50"><br>HTML5 | <img src="./icons/css3-icon.png" width="50" height="50"><br>CSS3 | <img src="./icons/javascript-icon.png" width="50" height="50"><br>JavaScript |
-|---|---|---|
-| <img src="./icons/node-js-icon.svg" width="50" height="50"><br><b>Node.js</b> | <img src="./icons/express-js-icon.svg" width="50" height="50"><br><b>Express</b> | <img style="text-align:center" src="./icons/webpack-icon.svg" width="50" height="50"><br><b>webpack</b> |
+<table>
+  <caption>Data about the planets of our solar system (Planetary facts taken from <a href="http://nssdc.gsfc.nasa.gov/planetary/factsheet/">Nasa's Planetary Fact Sheet - Metric</a>).</caption>
+  <colgroup>
+    <col>
+    <col style="border: 2px black solid;">
+    <col>
+  </colgroup>
+  <tbody>
+    <tr>
+      <td><img src="./icons/html5-icon.png" width="50" height="50"><br>HTML5</td>
+      <td><img src="./icons/css3-icon.png" width="50" height="50"><br>CSS3</td>
+      <td><img src="./icons/javascript-icon.png" width="50" height="50"><br>JavaScript</td>
+    </tr>
+    <tr>
+      <td><img src="./icons/node-js-icon.svg" width="50" height="50"><br><b>Node.js</td>
+      <td><img src="./icons/express-js-icon.svg" width="50" height="50"><br><b>Express</b></td>
+      <td><img style="text-align:center" src="./icons/webpack-icon.svg" width="50" height="50"><br><b>webpack</b></td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 **travis-mcginley/travis-mcginley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
