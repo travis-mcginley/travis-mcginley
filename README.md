@@ -10,14 +10,50 @@ My name is Travis and I am a Software Engineer who loves to work with web develo
   </colgroup>
   <tbody>
     <tr>
-      <td><img src="./icons/html5-icon.png" width="50" height="50"><br>HTML5</td>
-      <td><img src="./icons/css3-icon.png" width="50" height="50"><br>CSS3</td>
-      <td><img src="./icons/javascript-icon.png" width="50" height="50"><br>JavaScript</td>
+      <td>
+        <p align="center">
+          <img src="./icons/html5-icon.png" width="50" height="50">
+          <br>
+          <b>HTML5</b>
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="./icons/css3-icon.png" width="50" height="50">
+          <br>
+          <b>CSS3</b>
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="./icons/javascript-icon.png" width="50" height="50">
+          <br>
+          <b>JavaScript</b>
+        </p>
+      </td>
     </tr>
     <tr>
-      <td><img src="./icons/node-js-icon.svg" width="50" height="50"><br><b>Node.js</td>
-      <td><img src="./icons/express-js-icon.svg" width="50" height="50"><br><b>Express</b></td>
-      <td><p align="center"><img src="./icons/webpack-icon.svg" width="50" height="50"><br><b>webpack</b></p></td>
+      <td>
+        <p align="center">
+          <img src="./icons/node-js-icon.svg" width="50" height="50">
+          <br>
+          <b>Node.js</b>
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="./icons/express-js-icon.svg" width="50" height="50">
+          <br>
+          <b>Express</b>
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="./icons/webpack-icon.svg" width="50" height="50">
+          <br>
+          <b>webpack</b>
+        </p>
+      </td>
     </tr>
   </tbody>
 </table>
