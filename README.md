@@ -1,5 +1,5 @@
 ## 👋🏽 Hey, how's it going?
-My name is Travis and I am a Software Engineer who loves to work with web development technologies.  I am currently focused on learning as much about web development as I possibly can so that I can make a difference in the world.  I enjoy learning new technologies which can usually improve my development experience.
+My name is Travis and I am a Software Engineer who loves to work with web development technologies.  I am currently focused on learning as much about web development as I possibly can so that I can make a difference in the world.  I enjoy learning new technologies, which can usually improve my development experience.
 
 ## 🧰 Technologies & Tools
 <!-- Using HTML to create a table -->
@@ -39,6 +39,13 @@ My name is Travis and I am a Software Engineer who loves to work with web develo
           <b>npm</b>
         </p>
       </td>
+      <td>
+        <p align="center">
+          <img src="./icons/react-native-icon.svg" width="50" height="50">
+          <br>
+          <b>React</b>
+        </p>
+      </td>
     </tr>
     <tr>
       <td>
@@ -69,6 +76,13 @@ My name is Travis and I am a Software Engineer who loves to work with web develo
           <b>Git</b>
         </p>
       </td>
+      <td>
+        <p align="center">
+          <img src="./icons/postgresql-icon.svg" width="50" height="50">
+          <br>
+          <b>PostgreSQL</b>
+        </p>
+      </td>      
     </tr>
   </tbody>
 </table>
