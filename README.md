@@ -2,6 +2,7 @@
 My name is Travis and I am a Software Engineer who loves to work with web development technologies.  I am currently focused on learning as much about web development as I possibly can so that I can make a difference in the world.  I enjoy learning new technologies which can usually improve my development experience.
 
 ## 🧰 Technologies & Tools
+<!-- Using HTML to create a table -->
 <table>
   <colgroup>
     <col align="center">
@@ -31,6 +32,13 @@ My name is Travis and I am a Software Engineer who loves to work with web develo
           <b>JavaScript</b>
         </p>
       </td>
+      <td>
+        <p align="center">
+          <img src="./icons/NPM-icon.png" width="50" height="50">
+          <br>
+          <b>npm</b>
+        </p>
+      </td>
     </tr>
     <tr>
       <td>
@@ -54,21 +62,13 @@ My name is Travis and I am a Software Engineer who loves to work with web develo
           <b>webpack</b>
         </p>
       </td>
+      <td>
+        <p align="center">
+          <img src="./icons/git-icon.svg" width="50" height="50">
+          <br>
+          <b>Git</b>
+        </p>
+      </td>
     </tr>
   </tbody>
 </table>
-
-<!--
-**travis-mcginley/travis-mcginley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
