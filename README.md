@@ -4,9 +4,9 @@ My name is Travis and I am a Software Engineer who loves to work with web develo
 ## 🧰 Technologies & Tools
 <table>
   <colgroup>
-    <col style="display: flex; flex-direction: column; place-items: center; place-content: center;">
-    <col style="display: flex; flex-direction: column; place-items: center; place-content: center;">
-    <col style="display: flex; flex-direction: column; place-items: center; place-content: center;">
+    <col style="text-align: center; font-weight: bold;">
+    <col style="text-align: center; font-weight: bold;">
+    <col style="text-align: center; font-weight: bold;">
   </colgroup>
   <tbody>
     <tr>
