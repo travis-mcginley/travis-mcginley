@@ -34,7 +34,7 @@ My name is Travis and I am a Software Engineer who loves to work with web develo
       </td>
       <td>
         <p align="center">
-          <img src="./icons/NPM-icon.png" width="50" height="50">
+          <img src="./icons/npm-icon.svg" width="50" height="50">
           <br>
           <b>npm</b>
         </p>
