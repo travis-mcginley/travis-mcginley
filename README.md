@@ -1,4 +1,10 @@
-## 👋 Hey, how's it going?
+## 👋🏽 Hey, how's it going?
+My name is Travis and I am a Software Engineer who loves to work with web development technologies.  I am currently focused on learning as much about web development as I possibly can so that I can make a difference in the world.  I enjoy learning new technologies which can usually improve my development experience.
+
+## Technologies & Tools
+| 1 | 2 | 3 |
+|---|---|---|
+| 4 | 5 | 6 |
 
 <!--
 **travis-mcginley/travis-mcginley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
