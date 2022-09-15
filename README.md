@@ -4,7 +4,7 @@ My name is Travis and I am a Software Engineer who loves to work with web develo
 ## 🧰 Technologies & Tools
 | <img src="./icons/html5-icon.png" width="50" height="50"><br>HTML5 | <img src="./icons/css3-icon.png" width="50" height="50"><br>CSS3 | <img src="./icons/javascript-icon.png" width="50" height="50"><br>JavaScript |
 |---|---|---|
-| <img src="./icons/node-js-icon.svg" width="50" height="50"><br>Node.js | <img src="./icons/express-js-icon.svg" width="50" height="50"><br>Express | 6 |
+| <img src="./icons/node-js-icon.svg" width="50" height="50"><br><b>Node.js</b> | <img src="./icons/express-js-icon.svg" width="50" height="50"><br><b>Express</b> | <img src="./icons/webpack-icon.svg" width="50" height="50"><br><b>webpack</b> |
 <!--
 **travis-mcginley/travis-mcginley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
