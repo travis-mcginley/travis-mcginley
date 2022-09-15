@@ -3,14 +3,6 @@ My name is Travis and I am a Software Engineer who loves to work with web develo
 
 ## 🧰 Technologies & Tools
 <table>
-  <style>
-    .center {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      width: 50%;
-    }
-  </style>
   <colgroup>
     <col style="text-align: center; font-weight: bold;">
     <col style="text-align: center; font-weight: bold;">
@@ -25,7 +17,7 @@ My name is Travis and I am a Software Engineer who loves to work with web develo
     <tr>
       <td><img src="./icons/node-js-icon.svg" width="50" height="50"><br><b>Node.js</td>
       <td><img src="./icons/express-js-icon.svg" width="50" height="50"><br><b>Express</b></td>
-      <td><img class="center" src="./icons/webpack-icon.svg" width="50" height="50"><br><b>webpack</b></td>
+      <td><img style="display: block;margin-left: auto;margin-right: auto;width: 50%;" src="./icons/webpack-icon.svg" width="50" height="50"><br><b>webpack</b></td>
     </tr>
   </tbody>
 </table>
