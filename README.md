@@ -3,11 +3,10 @@ My name is Travis and I am a Software Engineer who loves to work with web develo
 
 ## 🧰 Technologies & Tools
 <table>
-  <caption>Data about the planets of our solar system (Planetary facts taken from <a href="http://nssdc.gsfc.nasa.gov/planetary/factsheet/">Nasa's Planetary Fact Sheet - Metric</a>).</caption>
   <colgroup>
-    <col>
-    <col style="border: 2px black solid;">
-    <col>
+    <col style="display: flex; flex-direction: column; place-items: center; place-content: center;">
+    <col style="display: flex; flex-direction: column; place-items: center; place-content: center;">
+    <col style="display: flex; flex-direction: column; place-items: center; place-content: center;">
   </colgroup>
   <tbody>
     <tr>
@@ -18,7 +17,7 @@ My name is Travis and I am a Software Engineer who loves to work with web develo
     <tr>
       <td><img src="./icons/node-js-icon.svg" width="50" height="50"><br><b>Node.js</td>
       <td><img src="./icons/express-js-icon.svg" width="50" height="50"><br><b>Express</b></td>
-      <td><img style="text-align:center" src="./icons/webpack-icon.svg" width="50" height="50"><br><b>webpack</b></td>
+      <td><img src="./icons/webpack-icon.svg" width="50" height="50"><br><b>webpack</b></td>
     </tr>
   </tbody>
 </table>
