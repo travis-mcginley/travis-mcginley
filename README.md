@@ -2,7 +2,7 @@
 My name is Travis and I am a Software Engineer who loves to work with web development technologies.  I am currently focused on learning as much about web development as I possibly can so that I can make a difference in the world.  I enjoy learning new technologies which can usually improve my development experience.
 
 ## 🧰 Technologies & Tools
-| <img src="./icons/html5-icon.png" width="50" height="50"> HTML 5 | 2 | 3 |
+| <img src="./icons/html5-icon.png" width="50" height="50"><br>HTML 5 | 2 | 3 |
 |---|---|---|
 | 4 | 5 | 6 |
 
